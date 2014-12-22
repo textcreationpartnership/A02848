@@ -35,9 +35,31 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An ansvver to the first part of a certaine conference, concerning succession, published not long sin
+
+1. TO THE KINGS MOST EXCELLENT MAIESTIE.
+
+1. To R. DOLEMAN.
+
 #####Body#####
-An ansvver to the first part of a certaine conference, concerning succession, published not long sin
+
+1. AN ANSVVERE TO THE FIRST CHAPter; whereof the Title is this.That succession to gouernement by neerenesse of bloude is not by lawe of Nature or deuine, but onely by humane and positiue lawes of euery particular common wealth: and consequently, that it may vpon iust causes, be altered by the same.
+
+1. TO THE SECOND CHAPTER, which is intituled,Of the particular forme of Monarchies and kingdomes, and the different lawes whereby they are to bee obtained, holden and gouerned in diuers countries, according as each common wealth hath chosen and established.
+
+1. To the third Chapter, which is intitledOf the great reuerence and respect due to kings, and yet how diuers of them, haue ben lawfully chastised by their common wealthes for their misgouernment, & of the good & prosperous successe that God commonly hath giuen to the same, and much more to the putting back of an vnworthie pretender.
+
+1. To the fourth Chapter which beareth tytle.Wherein consisteth principally the lawfulnesse of proceeding against Princes, which in the former Chapter is mencioned, What interest Princes haue in their subiects goods or liues; How oathes doe binde or may bee broken, of subiects towards their Princes; and finally the difference betweene a good king and a tyrant.
+
+1. To the fifth Chapter, which is entitled:Of the coronation of Princes, and maner of admitting to their authoritie, and the oathes which they do make in the same vnto the common wealth, for their good gouernment.
+
+1. To the sixth Chapter, whereof the title is:What is due to onely succession by birth; and what interest or right an Heire apparant hath to the Crowne, before he is crowned or admitted by the commonwealth; and how iustly he may be put backe, if he hath not the partes requisite.
+
+1. To the seuenth Chapter, which beareth title:How the next in succession by propinquity of bloud, haue oftentimes bin put backe by the commonwealth, & others further off admitted in their places, euen in those kingdoms where succession preuaileth; with many examples of the kingdome of Israel and Spaine.
+
+1. To the eighth Chapter, which is entituled,Of diuers other examples out of the states of France and England, for proofe, that the next in bloud are sometimes put backe from succession, and how God hath approued the same with good successe.
+
+1. To the ninth Chapter, which beareth title,VVhat are the principall points which a Commonwealth ought to respect in admitting or excluding any Prince, wherein is handled largely also, of the diuersitie of religions, and other such causes.
+
 **Types of content**
 
   * There are 28 **verse** lines!
